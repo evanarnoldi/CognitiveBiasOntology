@@ -4,6 +4,8 @@ description: >-
   Project
 ---
 
+Live link: https://evan-docs.gitbook.io/kre-final-project-report-documentation/
+
 # 🗒️ CognitiveBiasOntology - Report
 
 As one of the group responsible for the **KRE (Knowledge Representation and Extraction)** ongoing project of creating a comprehensive ontology for cognitive biases, this report serves as a diary to outline the progress that has been made in our contribution to the modeling of the Cognitive Bias Ontology.
